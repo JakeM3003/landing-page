@@ -1,0 +1,11 @@
+header{
+    background-color: #1f2937;
+    color: white;
+    font-size: 18px;
+}
+
+#nav-container{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
