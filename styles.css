@@ -29,4 +29,11 @@ header{
     color: #f9faf8;
     display: flex;
     justify-content: center;
+    height: 300px;
+}
+
+#hero-main-text{
+    font-size: 48px;
+    font-weight: bolder;
+    width: 150px
 }
