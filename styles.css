@@ -59,3 +59,12 @@ header{
     color: white;
 
 }
+/*end of 1st section css*/
+
+/*start of 2nd section*/
+#second-section-header{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
