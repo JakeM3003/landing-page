@@ -62,9 +62,31 @@ header{
 /*end of 1st section css*/
 
 /*start of 2nd section*/
+#second-section{
+    padding-bottom: 100px;
+}
+
+
 #second-section-header{
     text-align: center;
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+}
+
+#image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-with-text{
+    margin-left: 35px;
+    text-align: center;
+}
+
+.chook-img{
+    border-radius: 5%;
+    height: 175px;
+    width: 150px;
 }
