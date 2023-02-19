@@ -48,3 +48,14 @@ header{
     width: 250px;
     margin-left: 150px;
 }
+
+#hero-button{
+    background-color: #3882f6;
+    border-radius: 10%;
+    padding: 5px 10px 5px 10px;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+
+}
