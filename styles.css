@@ -90,3 +90,16 @@ header{
     height: 175px;
     width: 150px;
 }
+/*end of 2nd section*/
+
+/*start of 3rd section*/
+#quote-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#author{
+    margin-left: 150px;
+}
