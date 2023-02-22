@@ -98,8 +98,17 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 250px;
+    font-size: 36px;
+    font-weight: lighter;
+
 }
 
 #author{
-    margin-left: 150px;
+    margin-left: 250px;
+}
+
+#third-section{
+    height: fit-content;
+    background-color: #e5e7eb;
 }
