@@ -3,6 +3,7 @@ header{
     background-color: #1f2937;
     color: white;
     font-size: 18px;
+    height: 100px;
 }
 
 #nav-container{
@@ -13,7 +14,7 @@ header{
 }
 
 .nav{
-    margin-right: 15px;
+    margin-right: 35px;
     
 }
 
@@ -112,3 +113,42 @@ header{
     height: fit-content;
     background-color: #e5e7eb;
 }
+/*end of 3rd section*/
+
+/*start of 4th section*/
+#cta{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cta-container{
+    border: solid 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 5px;
+    
+}
+
+#cta-button{
+    margin-left: 100px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-color: #f9faf8;
+}
+
+button,
+button:focus,
+button:active{
+	border:1px solid black;
+	background:none;
+	outline:none;
+    padding:0;
+}    
